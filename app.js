@@ -1,5 +1,5 @@
 // Café Menu Board — Module 4 exercise lab
-// Name: ______________________   Student ID: ______________
+// Name: Ryder Taylor-Hunt   Student ID: 300382548
 
 // The data. Do not change the field names; you may change the values.
 const menu = [
